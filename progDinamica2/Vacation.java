@@ -1,24 +1,4 @@
-/**
- * Solución al problema "Vacation" :
 
- *  - Tiempo de ejecución: O(n*m)
- *  - Espacio de memoria: O(n*m)
- *
- *  Descripción de la solución:
- *     La solución consiste en calcular la longitud de la subsecuencia común más larga (LCS) entre dos secuencias de lugares.
- *     Para ello, se utiliza programación dinámica y se crea una matriz de tamaño (n+1) x (m+1) donde n y m son las longitudes de las secuencias.
- *      La matriz memo[i][j] representa la longitud de la LCS entre los primeros i lugares de la primera secuencia y los primeros j lugares de la segunda secuencia.
- *
-*        - Si los lugares i y j son iguales, entonces memo[i][j] = memo[i-1][j-1] + 1
- *       - Si los lugares i y j son diferentes, entonces memo[i][j] = max(memo[i-1][j], memo[i][j-1])
- *
- *        Finalmente, el resultado es memo[n][m], es decir, la longitud de la LCS entre las dos secuencias de lugares.
- *
- *        Para cada caso de prueba, se lee la primera secuencia de lugares y la segunda secuencia de lugares.
- *        Se calcula la longitud de la LCS entre las dos secuencias y se imprime el resultado.
- *
- *         El programa termina cuando la secuencia comienza con '#'.
- * */
 
 import java.util.Scanner;
 

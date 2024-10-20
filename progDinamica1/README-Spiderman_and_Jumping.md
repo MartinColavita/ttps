@@ -1,5 +1,5 @@
 
-# Spiderman y los Saltos (Problema de Programación Dinámica)
+# Spiderman and Jumping
 
 **Autor**: Martín Colavita  
 **Legajo**: 12638/2
@@ -73,7 +73,7 @@ N buildings are built in a row, numbered 1 to N from left to right. Spiderman is
 ---
 
 ### Captura de resultados
-![img.png](img.png)
+![img.png](img-spiderman.png)
 
 ### Link al ejercicio en el juez
 - **Enlace del ejercicio**: https://vjudge.net/problem/CodeChef-SPIDY2
