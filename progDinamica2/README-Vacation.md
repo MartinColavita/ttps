@@ -7,6 +7,7 @@
 ## Descripción
 Este ejercicio resuelve el problema "Vacation", en el cual se busca encontrar la mayor cantidad de ciudades que pueden visitarse en el orden sugerido por ambos padres, utilizando programación dinámica.
 La solución fue implementada en Java 1.8 debido a las limitaciones de versión del juez en línea.  El problema consiste en comparar dos secuencias de ciudades sugeridas por los padres y encontrar la subsecuencia común más larga (LCS) que satisface ambas sugerencias. La entrada consiste en varios pares de secuencias de ciudades, y la salida debe indicar el número máximo de ciudades que se pueden visitar en el orden que mejor satisface ambas sugerencias.
+El enfoque utilizado  para resolver el problema  es bottom-up.
 
 **NOTA**:
 >  LOS NOMBRES DE LOS ARCHIVOS SON DISTINTOS AL NOMBRE DE LA CLASE PARA EVITAR ERRORES DE COMPILACIÓN EN EL TEST.
