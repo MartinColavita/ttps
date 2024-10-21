@@ -2,9 +2,8 @@ import java.util.Scanner;
 
 class Main {
 
-    // Método que utiliza programación dinámica para resolver el problema de la mochila
+    // Método  para resolver el problema de knapsack
     public static boolean knapsack(int[] bars, int target) {
-        // Caso trivial: si la longitud objetivo es 0, siempre es posible
         if (target == 0) return true;
 
         // dp[j] indica si es posible formar una barra de longitud 'j'

@@ -7,6 +7,7 @@
 ## Descripción
 Este ejercicio implementa una solución utilizando programación dinámica en **Java 11**. 
 El problema se basa en ayudar a Spiderman a saltar entre edificios y alcanzar el último edificio (N) con el mínimo costo de energía. Los saltos permitidos entre edificios son aquellos donde la diferencia entre los números de edificio es una potencia de 2 (1, 2, 4, etc.), y el costo de un salto es la diferencia absoluta de alturas entre los edificios.
+El enfoque utilizado  para resolver el problema  es bottom-up.
 
 ---
 

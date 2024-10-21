@@ -5,8 +5,8 @@
 **Legajo**: 12638/2
 
 ## Descripción
-Este ejercicio resuelve un problema de combinación de barras metálicas utilizando programación dinámica en Java 1.8.0. 
-El objetivo es determinar si es posible formar una barra de una longitud exacta sin cortar ninguna barra, aplicando el algoritmo del "problema de la mochila" con una tabla `dp`.
+Este ejercicio resuelve un problema de combinación de barras metálicas utilizando programación dinámica en Java 1.8.0.
+El enfoque utilizado  para resolver el problema de la mochila (knapsack) es bottom-up.  El objetivo es determinar si es posible formar una barra de una longitud exacta sin cortar ninguna barra.
 
 **NOTA**:
 >  LOS NOMBRES DE LOS ARCHIVOS SON DISTINTOS AL NOMBRE DE LA CLASE PARA EVITAR ERRORES DE COMPILACIÓN EN EL TEST.
