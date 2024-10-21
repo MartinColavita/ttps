@@ -115,7 +115,6 @@ Case #2: you can visit at most 2 cities.
 ![img.png](img-Vacation.png)
 
 ### Link al ejercicio en el juez
+- **Enlace del ejercicio**:  [UVA-10192](https://vjudge.net/problem/UVA-10192)
 
-Puedes acceder al problema en el siguiente enlace: [UVA-10192](https://vjudge.net/problem/UVA-10192)
-```
 

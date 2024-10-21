@@ -78,4 +78,3 @@ N buildings are built in a row, numbered 1 to N from left to right. Spiderman is
 ### Link al ejercicio en el juez
 - **Enlace del ejercicio**: https://vjudge.net/problem/CodeChef-SPIDY2
 
---- 
